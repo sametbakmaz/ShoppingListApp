@@ -14,6 +14,7 @@
 		FCBD78AC28C26CB000C89D61 /* ShoppingList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FCBD78AA28C26CB000C89D61 /* ShoppingList.xcdatamodeld */; };
 		FCBD78AE28C26CB200C89D61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCBD78AD28C26CB200C89D61 /* Assets.xcassets */; };
 		FCBD78B128C26CB200C89D61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCBD78AF28C26CB200C89D61 /* LaunchScreen.storyboard */; };
+		FCBD78B928C2726700C89D61 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCBD78B828C2726700C89D61 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FCBD78AD28C26CB200C89D61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FCBD78B028C26CB200C89D61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FCBD78B228C26CB200C89D61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCBD78B828C2726700C89D61 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				FCBD78A128C26CB000C89D61 /* AppDelegate.swift */,
 				FCBD78A328C26CB000C89D61 /* SceneDelegate.swift */,
 				FCBD78A528C26CB000C89D61 /* ViewController.swift */,
+				FCBD78B828C2726700C89D61 /* DetailsViewController.swift */,
 				FCBD78A728C26CB000C89D61 /* Main.storyboard */,
 				FCBD78AD28C26CB200C89D61 /* Assets.xcassets */,
 				FCBD78AF28C26CB200C89D61 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				FCBD78AC28C26CB000C89D61 /* ShoppingList.xcdatamodeld in Sources */,
 				FCBD78A228C26CB000C89D61 /* AppDelegate.swift in Sources */,
 				FCBD78A428C26CB000C89D61 /* SceneDelegate.swift in Sources */,
+				FCBD78B928C2726700C89D61 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
